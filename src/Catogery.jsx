@@ -30,41 +30,41 @@ export default function Catogery() {
   </div>
 </div>
 
-            <div className="icons_area col-7 bg-dark text-light" >
-      <div className="row">
-        <div className="icons col-3">
+<div className="icons_area col-7   text-light">
+      <div className="row p-3">
+        <div className="icons col-3 d-flex flex-column align-items-center ">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
-        <div className="icons col-3">
+        <div className="icons col-3 d-flex flex-column align-items-center">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
-        <div className="icons col-3">
+        <div className="icons col-3 d-flex flex-column align-items-center">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
-        <div className="icons col-3">
+        <div className="icons col-3 d-flex flex-column align-items-center">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
       </div>
       <div className="row">
-      <div className="icons col-3">
+        <div className="icons col-3 d-flex flex-column align-items-center">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
-        <div className="icons col-3">
+        <div className="icons col-3 d-flex flex-column align-items-center">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
-        <div className="icons col-3">
+        <div className="icons col-3 d-flex flex-column align-items-center">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
-        <div className="icons col-3">
+        <div className="icons col-3 d-flex flex-column align-items-center">
           <MdHealthAndSafety />
-          <p>lorum ipsum</p>
+          <p className="icon_text">lorum ipsum</p>
         </div>
       </div>
     </div>

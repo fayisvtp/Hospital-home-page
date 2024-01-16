@@ -48,8 +48,15 @@
 .input_area{
   border-radius: 27px;
   border: 1px solid #6C9FC7;
+  
 
 }
 .icons{
-  font-size: 50px;
+  font-size: 70px;
+}
+.icon_text{
+  font-size: 20px;
+}
+.icons_area{
+  background-color:#2d4c64
 }
