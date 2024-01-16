@@ -1,38 +1,47 @@
-.App {
-  text-align: center;
+
+.mainBar{
+   
+  height:auto;
+  width:100%;
+  background-image: linear-gradient(to right top, #2d4c64, #557188, #7e99ae, #a8c2d6, #d5edff);
+  
+  
+}
+.doctor{
+ 
+
+  filter: drop-shadow( 4px 10px 10px rgba(0,0,0,0.3));
+  filter: brightness(4px 10px 10px);
+  
+}
+.heading{
+  font-weight: 600;
+  font-family: "Montserrat", sans-serif;
+  font-size: 90px;
+}
+.play_button{
+  height: 10px;
+  width: 18vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.arrow_btn{
+  width: 50vh;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.box-1{
+ 
+  height: auto;
+  padding: 10px;
+  box-shadow: #460000;
+  background-image: linear-gradient(to left bottom, #e90000, #bf000b, #95000e, #6c000a, #460000);
+  /* background-image: linear-gradient(to right top, #093705, #1b4809, #2e5a0b, #436c0b, #5a7e09); */
+  border-radius: 1%;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.smallcardh1{
+  color:#2D4C64 ;
+  font-size: 55px;
+  font-weight: bold;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.doctors_card{
+  background-color: #EBF4FB;
+ 
 }
