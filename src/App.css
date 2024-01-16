@@ -43,5 +43,13 @@
 }
 .doctors_card{
   background-color: #EBF4FB;
- 
+
+}
+.input_area{
+  border-radius: 27px;
+  border: 1px solid #6C9FC7;
+
+}
+.icons{
+  font-size: 50px;
 }
