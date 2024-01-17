@@ -60,3 +60,8 @@
 .icons_area{
   background-color:#2d4c64
 }
+.images{
+  width:20px;
+
+transform: rotate(-6.683deg);
+}
